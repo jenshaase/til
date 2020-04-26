@@ -13,7 +13,7 @@ If there is already tubeless rim tape on the tire nothing needs to be done here.
 * Make sure the rim is dry before you start taping.
 * Start with the tape between the first and second spoke (near the valve hole)
 * Tape one round and overlap 10-15cm.
-* While taping keep the tape under pressure.
+* While taping, keep the tape under pressure.
 * Afterwards press the tape on the rim (with your fingers) and remove air bubbles.
 
 ## Insert the valve
